@@ -15,6 +15,12 @@ li {
 	padding-left: 25px;
 	font-size: 15px;
 	padding-right: 30px;
+	float: right;
+}
+.oj {
+	float: left;
+	color: white;
+	padding-top: 2.7%;
 }
 input {
 	float: right;
