@@ -23,16 +23,28 @@ li {
 	padding-top: 2.7%;
 }
 input {
+	height: 50px;
+	width: 230px;
+	background-color: #F0EEEF;
+	border-style: none;
+	font-size: 20px;
+	padding-left: 20px;
+}
+form {
+	display: inline-block;
 	float: right;
-	padding: 0 20px 20px 20px;
 }
 i {
-	float: right;
+	position: absolute;
+	right: 10px;
+	top: 103px;
+	color: #D4D4D4;
+	font-size: 30px;
 }
 .text {
 	float: right;
 	font-size: 40px;
-	padding-right: 0px;
+	padding-right: 50px;
 	padding-left: 20px;
 	text-align: left;
 	color: orange;
